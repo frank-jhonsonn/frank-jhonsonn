@@ -9,7 +9,7 @@
 ###
 
 <p align="left">🚀Dev Full-Stack Sr!
-<br>👨‍💻 Cursando Desenvolvimento de Jogos</p>
+<br>👨‍💻 Estudando Desenvolvimento de Jogos</p>
 
 ###
 
